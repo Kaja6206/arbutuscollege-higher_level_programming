@@ -8,3 +8,4 @@ module.exports = class Rectangle {
       this.height = height;
     }
   };
+  

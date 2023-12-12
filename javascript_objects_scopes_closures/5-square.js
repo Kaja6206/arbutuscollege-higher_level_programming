@@ -13,3 +13,4 @@ module.exports = class Square extends Rectangle {
     super.double();
   }
 };
+
